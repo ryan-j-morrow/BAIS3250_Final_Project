@@ -1,0 +1,10 @@
+Test,P_Val,Result
+Congress members' returns overperform the market at a statistically significant level,0.999874406877517,False
+Congress members' returns underperform the market at a statistically significant level,0.0001255931224829153,True
+Congress members' returns perform differently than the market at a statistically significant level,0.0002511862449658306,True
+Democrat Congress Members outperform Republican Congress Members in the stock market at a statistically significant level.,0.9952740127485098,False
+Democrat Congress Members underperform Republican Congress Members in the stock market at a statistically significant level.,0.004725987251490263,True
+Democrat Congress Members's returns are different than Republican Congress Members' returns in the stock market at a statistically significant level.,0.009451974502980525,True
+Congress Members who serve in the Senate outperform Congress Members who serve in the House in the stock market at a statistically significant level.,0.32719595011757946,False
+Congress Members who serve in the Senate underperform Congress Members who serve in the House in the stock market at a statistically significant level.,0.6728040498824206,False
+Congress Members who serve in the Senate's returns are different than Congress Members who serve in the House's returns in the stock market at a statistically significant level.,0.6543919002351589,False

@@ -1,0 +1,1213 @@
+Name,Party,Chamber,State,Ticker,Date,Buy,Sell
+Ro Khanna,Democrat,House,CA,ENPH,2023-3-13,True,False
+Ro Khanna,Democrat,House,CA,AAP,2023-3-13,True,False
+Ro Khanna,Democrat,House,CA,TRV,2023-3-13,True,False
+Ro Khanna,Democrat,House,CA,VTRS,2023-3-13,True,False
+Ro Khanna,Democrat,House,CA,LYB,2023-3-13,True,False
+Ro Khanna,Democrat,House,CA,UNP,2023-3-13,True,False
+Ro Khanna,Democrat,House,CA,HSBC,2023-3-9,True,False
+Ro Khanna,Democrat,House,CA,MA,2023-3-13,True,False
+Ro Khanna,Democrat,House,CA,LIN,2023-3-13,True,False
+Ro Khanna,Democrat,House,CA,ABB,2023-3-9,True,False
+Ro Khanna,Democrat,House,CA,ELAN,2023-3-2,True,False
+Ro Khanna,Democrat,House,CA,WST,2023-3-13,True,False
+Ro Khanna,Democrat,House,CA,BNPQY,2023-3-9,True,False
+Ro Khanna,Democrat,House,CA,MRNA,2023-3-13,True,False
+Ro Khanna,Democrat,House,CA,ELAN,2023-3-12,True,False
+Ro Khanna,Democrat,House,CA,ING,2023-3-9,True,False
+Ro Khanna,Democrat,House,CA,SMFG,2023-3-9,True,False
+Ro Khanna,Democrat,House,CA,CMPGY,2023-3-9,True,False
+Ro Khanna,Democrat,House,CA,TAK,2023-3-9,True,False
+Ro Khanna,Democrat,House,CA,XSP,2023-2-28,False,True
+Ro Khanna,Democrat,House,CA,XSP,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,XSP,2023-3-29,False,True
+Ro Khanna,Democrat,House,CA,XSP,2023-3-7,False,True
+Ro Khanna,Democrat,House,CA,XSP,2023-3-22,False,True
+Ro Khanna,Democrat,House,CA,PFE,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,BMY,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,CVS,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,BRK/B,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,AMZN,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,DIS,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,INTU,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,AMT,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,PM,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,SIEGY,2023-3-9,False,True
+Ro Khanna,Democrat,House,CA,NSC,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,KDP,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,SCHW,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,ABBV,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,PNC,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,ACN,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,PAYX,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,FITB,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,ADBE,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,STZ,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,IQV,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,REGN,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,MMM,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,USB,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,CCI,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,STM,2023-3-9,False,True
+Ro Khanna,Democrat,House,CA,ALL,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,EQR,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,RSG,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,DD,2023-3-12,False,True
+Ro Khanna,Democrat,House,CA,HBAN,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,COR,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,MMC,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,CSGP,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,AZO,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,SHW,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,PRU,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,TMO,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,AIG,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,MAA,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,MRK,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,WFC,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,MKC,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,DELL,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,PEAK,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,DG,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,CHTR,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,N/A,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,FIS,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,CFG,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,MOH,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,RJF,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,BXP,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,DOW,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,MTD,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,DD,2023-3-28,False,True
+Ro Khanna,Democrat,House,CA,HSIC,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,PSTG,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,BLK,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,WDC,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,FCX,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,NVO,2023-3-9,False,True
+Ro Khanna,Democrat,House,CA,VRTX,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,ALB,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,BMRN,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,VRSN,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,LH,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,ARE,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,HRL,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,KHC,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,AMED,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,EL,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,ETSY,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,VNO,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,UHS,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,PAYC,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,CPT,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,SBAC,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,DOCU,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,RVTY,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,ELV,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,INCY,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,CPRI,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,EHC,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,HOG,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,MAT,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,TRMB,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,HR,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,EPAM,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,RITM,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,KRC,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,LYV,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,IONS,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,CBRE,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,NWL,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,GDDY,2023-3-13,False,True
+Ro Khanna,Democrat,House,CA,N/A,2023-3-1,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-3-5,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-3-5,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-3-14,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-3-1,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-3-8,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-3-5,True,False
+Ro Khanna,Democrat,House,CA,ALL,2023-3-6,True,False
+Ro Khanna,Democrat,House,CA,WFC,2023-3-14,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-3-14,True,False
+Ro Khanna,Democrat,House,CA,RRX,2023-3-22,True,False
+Ro Khanna,Democrat,House,CA,AIG,2023-3-15,True,False
+Ro Khanna,Democrat,House,CA,LEA,2023-3-9,True,False
+Ro Khanna,Democrat,House,CA,RRX,2023-3-9,True,False
+Ro Khanna,Democrat,House,CA,RRX,2023-3-7,True,False
+Ro Khanna,Democrat,House,CA,FRC,2023-3-8,True,False
+Ro Khanna,Democrat,House,CA,FRC,2023-3-9,True,False
+Ro Khanna,Democrat,House,CA,RRX,2023-3-12,True,False
+Ro Khanna,Democrat,House,CA,BKNG,2023-3-2,False,True
+Ro Khanna,Democrat,House,CA,BKNG,2023-3-6,False,True
+Ro Khanna,Democrat,House,CA,PEP,2023-3-14,False,True
+Ro Khanna,Democrat,House,CA,FRC,2023-3-14,False,True
+Ro Khanna,Democrat,House,CA,GOOGL,2023-3-15,False,True
+Ro Khanna,Democrat,House,CA,MSFT,2023-3-15,False,True
+Kevin Hern,Republican,House,OK,DVN,2023-3-30,True,False
+Kevin Hern,Republican,House,OK,DVN,2023-3-30,True,False
+Kevin Hern,Republican,House,OK,EMR,2023-3-9,True,False
+Kevin Hern,Republican,House,OK,HD,2023-3-22,True,False
+Kevin Hern,Republican,House,OK,HD,2023-3-22,True,False
+Kevin Hern,Republican,House,OK,INTC,2023-2-28,True,False
+Kevin Hern,Republican,House,OK,JNJ,2023-3-6,True,False
+Kevin Hern,Republican,House,OK,LIN,2023-3-27,True,False
+Kevin Hern,Republican,House,OK,LMT,2023-3-23,True,False
+Kevin Hern,Republican,House,OK,NEE,2023-3-14,True,False
+Kevin Hern,Republican,House,OK,PXD,2023-3-16,True,False
+Kevin Hern,Republican,House,OK,RTX,2023-3-22,True,False
+Kevin Hern,Republican,House,OK,ROK,2023-3-9,True,False
+Kevin Hern,Republican,House,OK,N/A,2023-3-20,False,True
+Kevin Hern,Republican,House,OK,UNH,2023-3-20,True,False
+Kevin Hern,Republican,House,OK,N/A,2023-3-2,True,False
+Kevin Hern,Republican,House,OK,N/A,2023-3-2,True,False
+Kevin Hern,Republican,House,OK,N/A,2023-3-2,True,False
+Kevin Hern,Republican,House,OK,WMB,2023-3-26,True,False
+Lloyd Doggett,Democrat,House,TX,HD,2023-3-23,True,False
+Lloyd Doggett,Democrat,House,TX,IBM,2023-3-12,True,False
+Lloyd Doggett,Democrat,House,TX,JNJ,2023-3-7,True,False
+Lloyd Doggett,Democrat,House,TX,PPG,2023-3-12,True,False
+Suzan DelBene,Democrat,House,WA,N/A,2023-3-22,True,False
+Suzan DelBene,Democrat,House,WA,N/A,2023-3-29,False,True
+Nancy Pelosi,Democrat,House,CA,AAPL,2023-3-16,True,False
+Nancy Pelosi,Democrat,House,CA,N/A,2023-3-8,True,False
+Earl Blumenauer,Democrat,House,OR,BAC,2023-3-8,False,True
+Earl Blumenauer,Democrat,House,OR,BRK/B,2023-3-14,False,True
+Earl Blumenauer,Democrat,House,OR,FDX,2023-3-8,False,True
+Earl Blumenauer,Democrat,House,OR,FRC,2023-3-19,False,True
+Earl Blumenauer,Democrat,House,OR,SIVBQ,2023-3-8,True,False
+Don Beyer,Democrat,House,VA,N/A,2023-3-15,True,False
+Virginia Foxx,Republican,House,NC,ARLP,2023-3-9,True,False
+Virginia Foxx,Republican,House,NC,BCC,2023-3-1,True,False
+Virginia Foxx,Republican,House,NC,BCC,2023-3-6,False,True
+Virginia Foxx,Republican,House,NC,DUK,2023-3-16,True,False
+Virginia Foxx,Republican,House,NC,GSK,2023-2-28,False,True
+Virginia Foxx,Republican,House,NC,PFF,2023-3-1,False,True
+Virginia Foxx,Republican,House,NC,K,2023-2-28,False,True
+Virginia Foxx,Republican,House,NC,PAA,2023-3-23,True,False
+Virginia Foxx,Republican,House,NC,SCHD,2023-3-7,False,True
+Virginia Foxx,Republican,House,NC,VGR,2023-3-6,True,False
+Virginia Foxx,Republican,House,NC,VGR,2023-3-30,True,False
+Virginia Foxx,Republican,House,NC,VIA,2023-3-21,True,False
+Gerry Connolly,Democrat,House,VA,D,2023-3-28,False,True
+Gerry Connolly,Democrat,House,VA,LDOS,2023-3-28,False,True
+Gerry Connolly,Democrat,House,VA,SAIC,2023-3-28,False,True
+Max Miller,Republican,House,OH,N/A,2023-2-14,True,False
+Max Miller,Republican,House,OH,N/A,2023-2-16,True,False
+Lois Frankel,Democrat,House,FL,C,2023-2-21,True,False
+Lois Frankel,Democrat,House,FL,C,2023-2-28,True,False
+Lois Frankel,Democrat,House,FL,JPM,2023-3-1,True,False
+Lois Frankel,Democrat,House,FL,NXPI,2023-2-21,False,True
+Lois Frankel,Democrat,House,FL,PNC,2023-2-21,False,True
+Lois Frankel,Democrat,House,FL,PNC,2023-2-28,False,True
+Lois Frankel,Democrat,House,FL,PNC,2023-3-1,False,True
+Tom Carper,Democrat,Senate,DE,AAPL,2023-3-6,False,True
+Tom Carper,Democrat,Senate,DE,N/A,2023-3-22,False,True
+Tom Carper,Democrat,Senate,DE,N/A,2023-3-22,True,False
+Tom Carper,Democrat,Senate,DE,N/A,2023-3-22,False,True
+Tom Carper,Democrat,Senate,DE,N/A,2023-3-22,True,False
+Tom Carper,Democrat,Senate,DE,N/A,2023-3-22,False,True
+Tom Carper,Democrat,Senate,DE,N/A,2023-3-22,True,False
+Mark Green,Republican,House,TN,ET,2023-3-23,False,True
+Mark Green,Republican,House,TN,NGL,2023-3-23,True,False
+Dan Meuser,Republican,House,PA,RHHBY,2023-2-27,False,True
+Scott Peters,Democrat,House,CA,N/A,2023-2-6,True,False
+Mitch McConnell,Republican,Senate,KY,WFC,2023-3-2,True,False
+Debbie Lesko,Republican,House,AZ,N/A,2023-3-25,True,False
+Nicole Malliotakis,Republican,House,NY,NYCB,2023-3-16,True,False
+Diana Harshbarger,Republican,House,TN,N/A,2023-2-21,False,True
+John Curtis,Republican,House,UT,BAC,2023-3-15,False,True
+John Curtis,Republican,House,UT,BRK/B,2023-3-15,True,False
+John Curtis,Republican,House,UT,FRC,2023-3-15,False,True
+John Curtis,Republican,House,UT,N/A,2023-3-13,True,False
+Morgan McGarvey,Democrat,House,KY,AMZN,2023-2-6,True,False
+Morgan McGarvey,Democrat,House,KY,NVDA,2023-2-27,False,True
+Morgan McGarvey,Democrat,House,KY,NVDA,2023-2-27,False,True
+French Hill,Republican,House,AR,N/A,2023-2-22,True,False
+Rick Scott,Republican,Senate,FL,N/A,2023-2-23,True,False
+Michael McCaul,Republican,House,TX,COP,2023-2-12,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-2-8,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-2-1,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-2-20,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-2-2,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-2-12,True,False
+Michael McCaul,Republican,House,TX,ANET,2023-2-9,True,False
+Michael McCaul,Republican,House,TX,AMZN,2023-1-31,True,False
+Michael McCaul,Republican,House,TX,PYPL,2023-2-13,True,False
+Michael McCaul,Republican,House,TX,ANET,2023-2-15,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-2-2,True,False
+Michael McCaul,Republican,House,TX,ADSK,2023-2-5,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-2-16,True,False
+Michael McCaul,Republican,House,TX,EPAM,2023-2-9,True,False
+Michael McCaul,Republican,House,TX,ACN,2023-2-5,True,False
+Michael McCaul,Republican,House,TX,ADSK,2023-2-9,True,False
+Michael McCaul,Republican,House,TX,TRTN,2023-2-16,True,False
+Michael McCaul,Republican,House,TX,SEDG,2023-2-9,True,False
+Michael McCaul,Republican,House,TX,ENTG,2023-2-9,True,False
+Michael McCaul,Republican,House,TX,ZION,2023-1-31,True,False
+Michael McCaul,Republican,House,TX,EPAM,2023-2-9,True,False
+Michael McCaul,Republican,House,TX,UNH,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,V,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,EPAM,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,EPAM,2023-2-9,False,True
+Michael McCaul,Republican,House,TX,AMZN,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,INTU,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,BURL,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,GOOGL,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,NVDA,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,MSFT,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,WWD,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,PROSY,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,HLT,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,MAR,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-2-14,False,True
+Michael McCaul,Republican,House,TX,VMFXX,2023-2-1,False,True
+Michael McCaul,Republican,House,TX,UNH,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,GOOGL,2023-2-12,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-2-14,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-1-31,False,True
+Michael McCaul,Republican,House,TX,NFLX,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,GOOGL,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,HLT,2023-2-12,False,True
+Michael McCaul,Republican,House,TX,MAR,2023-2-14,False,True
+Michael McCaul,Republican,House,TX,FIVE,2023-2-9,False,True
+Michael McCaul,Republican,House,TX,AON,2023-2-15,False,True
+Michael McCaul,Republican,House,TX,NFLX,2023-1-31,False,True
+Michael McCaul,Republican,House,TX,GOOGL,2023-2-12,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-1-31,False,True
+Michael McCaul,Republican,House,TX,GOOGL,2023-2-9,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-2-14,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-2-14,False,True
+Michael McCaul,Republican,House,TX,META,2023-2-8,False,True
+Michael McCaul,Republican,House,TX,ORLY,2023-2-9,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-1-31,False,True
+Michael McCaul,Republican,House,TX,VWLUX,2023-2-1,False,True
+Michael McCaul,Republican,House,TX,INTC,2023-2-2,True,False
+Michael McCaul,Republican,House,TX,FDX,2023-2-2,True,False
+Michael McCaul,Republican,House,TX,FIS,2023-2-15,True,False
+Michael McCaul,Republican,House,TX,CW,2023-2-21,False,True
+Michael McCaul,Republican,House,TX,CW,2023-2-15,False,True
+Michael McCaul,Republican,House,TX,CW,2023-2-6,False,True
+Michael McCaul,Republican,House,TX,CW,2023-2-20,False,True
+Michael McCaul,Republican,House,TX,CW,2023-2-16,False,True
+Michael McCaul,Republican,House,TX,CW,2023-2-23,False,True
+Michael McCaul,Republican,House,TX,CW,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,CW,2023-2-22,False,True
+Michael McCaul,Republican,House,TX,WBD,2023-2-8,False,True
+Michael McCaul,Republican,House,TX,CW,2023-2-2,False,True
+Michael McCaul,Republican,House,TX,LVS,2023-2-2,False,True
+Michael McCaul,Republican,House,TX,VWLUX,2023-1-31,True,False
+Michael McCaul,Republican,House,TX,COP,2023-2-12,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-2-8,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-2-1,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-2-20,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-2-2,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-2-12,True,False
+Michael McCaul,Republican,House,TX,AMZN,2023-1-31,True,False
+Michael McCaul,Republican,House,TX,ANET,2023-2-9,True,False
+Michael McCaul,Republican,House,TX,PYPL,2023-2-13,True,False
+Michael McCaul,Republican,House,TX,ANET,2023-2-15,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-2-2,True,False
+Michael McCaul,Republican,House,TX,ADSK,2023-2-5,True,False
+Michael McCaul,Republican,House,TX,EPAM,2023-2-9,True,False
+Michael McCaul,Republican,House,TX,ACN,2023-2-5,True,False
+Michael McCaul,Republican,House,TX,TRTN,2023-2-16,True,False
+Michael McCaul,Republican,House,TX,ADSK,2023-2-9,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-2-16,True,False
+Michael McCaul,Republican,House,TX,SEDG,2023-2-9,True,False
+Michael McCaul,Republican,House,TX,ENTG,2023-2-9,True,False
+Michael McCaul,Republican,House,TX,ZION,2023-1-31,True,False
+Michael McCaul,Republican,House,TX,EPAM,2023-2-9,True,False
+Michael McCaul,Republican,House,TX,UNH,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,V,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,EPAM,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,EPAM,2023-2-9,False,True
+Michael McCaul,Republican,House,TX,AMZN,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,INTU,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,BURL,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,GOOGL,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,NVDA,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,MSFT,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,VMFXX,2023-2-1,False,True
+Michael McCaul,Republican,House,TX,WWD,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-2-14,False,True
+Michael McCaul,Republican,House,TX,PROSY,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,HLT,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,MAR,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-2-14,False,True
+Michael McCaul,Republican,House,TX,GOOGL,2023-2-12,False,True
+Michael McCaul,Republican,House,TX,UNH,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-1-31,False,True
+Michael McCaul,Republican,House,TX,NFLX,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,GOOGL,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,HLT,2023-2-12,False,True
+Michael McCaul,Republican,House,TX,FIVE,2023-2-9,False,True
+Michael McCaul,Republican,House,TX,MAR,2023-2-14,False,True
+Michael McCaul,Republican,House,TX,AON,2023-2-15,False,True
+Michael McCaul,Republican,House,TX,GOOGL,2023-2-12,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-1-31,False,True
+Michael McCaul,Republican,House,TX,GOOGL,2023-2-9,False,True
+Michael McCaul,Republican,House,TX,NFLX,2023-1-31,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-2-14,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-2-14,False,True
+Michael McCaul,Republican,House,TX,ORLY,2023-2-9,False,True
+Michael McCaul,Republican,House,TX,META,2023-2-8,False,True
+Michael McCaul,Republican,House,TX,VWLUX,2023-2-1,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-1-31,False,True
+Michael McCaul,Republican,House,TX,INTC,2023-2-2,True,False
+Michael McCaul,Republican,House,TX,FDX,2023-2-2,True,False
+Michael McCaul,Republican,House,TX,FIS,2023-2-15,True,False
+Michael McCaul,Republican,House,TX,CW,2023-2-21,False,True
+Michael McCaul,Republican,House,TX,CW,2023-2-15,False,True
+Michael McCaul,Republican,House,TX,CW,2023-2-6,False,True
+Michael McCaul,Republican,House,TX,CW,2023-2-20,False,True
+Michael McCaul,Republican,House,TX,CW,2023-2-16,False,True
+Michael McCaul,Republican,House,TX,CW,2023-2-23,False,True
+Michael McCaul,Republican,House,TX,CW,2023-2-5,False,True
+Michael McCaul,Republican,House,TX,CW,2023-2-22,False,True
+Michael McCaul,Republican,House,TX,WBD,2023-2-8,False,True
+Michael McCaul,Republican,House,TX,CW,2023-2-2,False,True
+Michael McCaul,Republican,House,TX,LVS,2023-2-2,False,True
+Michael McCaul,Republican,House,TX,VWLUX,2023-1-31,True,False
+Michael McCaul,Republican,House,TX,VMFXX,2023-2-21,True,False
+Richard Blumenthal,Democrat,Senate,CT,N/A,2023-2-9,True,False
+Richard Blumenthal,Democrat,Senate,CT,N/A,2023-2-12,True,False
+Maria Elvira Salazar,Republican,House,FL,CANO,2023-2-19,False,False
+Maria Elvira Salazar,Republican,House,FL,N/A,2023-2-26,True,False
+Maria Elvira Salazar,Republican,House,FL,N/A,2023-2-15,True,False
+David Trone,Democrat,House,MD,C,2023-2-15,False,True
+David Trone,Democrat,House,MD,C,2023-2-15,False,True
+David Trone,Democrat,House,MD,GS,2023-2-15,False,True
+David Trone,Democrat,House,MD,JPM,2023-2-15,False,True
+David Trone,Democrat,House,MD,JPM,2023-2-15,False,True
+David Trone,Democrat,House,MD,MS,2023-2-15,False,True
+David Trone,Democrat,House,MD,WFC,2023-2-15,False,True
+Daniel S. Goldman,Democrat,House,NY,ELUXB,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,ADYEY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,AONNY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,AAGIY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,AJINY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,MO,2023-2-2,True,False
+Daniel S. Goldman,Democrat,House,NY,BUD,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,ANZBY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,N/A,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,ALPMY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,ASXFY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,ATLKY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,BAYRY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,BRK/B,2023-2-2,False,True
+Daniel S. Goldman,Democrat,House,NY,BTI,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,CJPRY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,CF,2023-2-2,False,True
+Daniel S. Goldman,Democrat,House,NY,N/A,2023-2-23,False,True
+Daniel S. Goldman,Democrat,House,NY,CHGCY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,KO,2023-2-2,False,True
+Daniel S. Goldman,Democrat,House,NY,N/A,2023-2-14,False,True
+Daniel S. Goldman,Democrat,House,NY,CRZBY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,CS,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,CSLLY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,CME,2023-2-9,False,True
+Daniel S. Goldman,Democrat,House,NY,DKILY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,DWAHY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,DNTUY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,DEO,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,LLY,2023-2-2,False,True
+Daniel S. Goldman,Democrat,House,NY,ENPH,2023-2-2,False,True
+Daniel S. Goldman,Democrat,House,NY,EPOKY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,ERIC,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,ESLOY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,FANUY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,FRCOY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,FJTSY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,GVDNY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,GRFS,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,HLN,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,HXGBY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,HTHIY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,HOCPY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,HSBC,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,IHG,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,ITTOY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,JHX,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,JAPAY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,JNJ,2023-2-2,True,False
+Daniel S. Goldman,Democrat,House,NY,KDDIY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,KRYAY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,KKOYY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,KNBWY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,ADRNY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,KSRYY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,MTHRY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,MBGYY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,MITEY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,MTSFY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,MSLOY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,MONOY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,MHGVY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,N/A,2023-2-23,False,True
+Daniel S. Goldman,Democrat,House,NY,N/A,2023-2-8,True,False
+Daniel S. Goldman,Democrat,House,NY,N/A,2023-2-22,True,False
+Daniel S. Goldman,Democrat,House,NY,NCBDY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,NABZY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,NGG,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,NSRGY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,N/A,2023-2-23,True,False
+Daniel S. Goldman,Democrat,House,NY,N/A,2023-2-21,True,False
+Daniel S. Goldman,Democrat,House,NY,NJDCY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,NTDOY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,NPPNY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,NCLTY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,NOK,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,NRILY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,NRDBY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,NVS,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,NTDTY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,OCDDY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,OLYMY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,OLCLY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,DNNGY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,OTSKY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,DQJCY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,QABSY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,RCRUY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,RELX,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,RTO,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,RIO,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,RHHBY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,SNY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,SKLTY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,SVNDY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,SHECY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,SGIOY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,SSDOY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,SGAPY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,SMFKY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,SFTBY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,SMPNY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,SOMMY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,STBFY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,SSMXY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,TSM,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,TAK,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,TTNDY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,TELNY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,TRUMY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,TSLA,2023-2-2,True,False
+Daniel S. Goldman,Democrat,House,NY,N/A,2023-2-12,True,False
+Daniel S. Goldman,Democrat,House,NY,TKOMY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,TOELY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,TOSYY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,TOTDY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,TM,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,UCBJY,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,UNICY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,UL,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,UNVGY,2023-2-26,False,True
+Daniel S. Goldman,Democrat,House,NY,N/A,2023-2-22,True,False
+Daniel S. Goldman,Democrat,House,NY,VOD,2023-2-26,True,False
+Daniel S. Goldman,Democrat,House,NY,N/A,2023-2-16,True,False
+Daniel S. Goldman,Democrat,House,NY,WJRYY,2023-2-26,False,True
+Suzan DelBene,Democrat,House,WA,N/A,2023-3-14,True,False
+Suzan DelBene,Democrat,House,WA,N/A,2023-3-6,True,False
+Josh Gottheimer,Democrat,House,NJ,ABBV,2023-2-20,False,True
+Josh Gottheimer,Democrat,House,NJ,ABBV,2023-2-6,False,True
+Josh Gottheimer,Democrat,House,NJ,ADBE,2023-2-9,True,False
+Josh Gottheimer,Democrat,House,NJ,ADBE,2023-2-1,True,False
+Josh Gottheimer,Democrat,House,NJ,AMD,2023-2-12,True,False
+Josh Gottheimer,Democrat,House,NJ,AMD,2023-2-22,False,True
+Josh Gottheimer,Democrat,House,NJ,AMD,2023-2-16,False,True
+Josh Gottheimer,Democrat,House,NJ,AAGIY,2023-2-12,True,False
+Josh Gottheimer,Democrat,House,NJ,AMGN,2023-2-21,False,True
+Josh Gottheimer,Democrat,House,NJ,APPF,2023-2-22,True,False
+Josh Gottheimer,Democrat,House,NJ,ADP,2023-2-2,False,True
+Josh Gottheimer,Democrat,House,NJ,AZO,2023-2-23,False,True
+Josh Gottheimer,Democrat,House,NJ,AZO,2023-2-9,False,True
+Josh Gottheimer,Democrat,House,NJ,CBZ,2023-2-22,True,False
+Josh Gottheimer,Democrat,House,NJ,KO,2023-2-13,False,True
+Josh Gottheimer,Democrat,House,NJ,KO,2023-2-20,False,True
+Josh Gottheimer,Democrat,House,NJ,KO,2023-2-6,False,True
+Josh Gottheimer,Democrat,House,NJ,DE,2023-2-9,False,True
+Josh Gottheimer,Democrat,House,NJ,DE,2023-2-16,False,True
+Josh Gottheimer,Democrat,House,NJ,LLY,2023-2-13,False,True
+Josh Gottheimer,Democrat,House,NJ,LLY,2023-2-16,False,True
+Josh Gottheimer,Democrat,House,NJ,LLY,2023-2-6,False,True
+Josh Gottheimer,Democrat,House,NJ,LLY,2023-2-2,False,True
+Josh Gottheimer,Democrat,House,NJ,FIVE,2023-2-27,False,True
+Josh Gottheimer,Democrat,House,NJ,GMED,2023-2-7,False,True
+Josh Gottheimer,Democrat,House,NJ,HSHCY,2023-2-12,True,False
+Josh Gottheimer,Democrat,House,NJ,IBN,2023-1-31,False,True
+Josh Gottheimer,Democrat,House,NJ,INTU,2023-2-26,True,False
+Josh Gottheimer,Democrat,House,NJ,LRCX,2023-2-13,True,False
+Josh Gottheimer,Democrat,House,NJ,MCK,2023-2-22,False,True
+Josh Gottheimer,Democrat,House,NJ,MELI,2023-2-22,True,False
+Josh Gottheimer,Democrat,House,NJ,META,2023-2-2,True,False
+Josh Gottheimer,Democrat,House,NJ,MSFT,2023-2-13,False,True
+Josh Gottheimer,Democrat,House,NJ,MSFT,2023-2-13,True,False
+Josh Gottheimer,Democrat,House,NJ,MSFT,2023-2-12,False,True
+Josh Gottheimer,Democrat,House,NJ,MSFT,2023-2-12,False,True
+Josh Gottheimer,Democrat,House,NJ,MSFT,2023-2-12,False,True
+Josh Gottheimer,Democrat,House,NJ,MSFT,2023-2-12,True,False
+Josh Gottheimer,Democrat,House,NJ,MSFT,2023-2-12,False,True
+Josh Gottheimer,Democrat,House,NJ,MSFT,2023-2-12,True,False
+Josh Gottheimer,Democrat,House,NJ,MSFT,2023-2-26,True,False
+Josh Gottheimer,Democrat,House,NJ,MDB,2023-2-12,True,False
+Josh Gottheimer,Democrat,House,NJ,NFLX,2023-2-5,True,False
+Josh Gottheimer,Democrat,House,NJ,NFLX,2023-2-20,True,False
+Josh Gottheimer,Democrat,House,NJ,NVDA,2023-2-20,True,False
+Josh Gottheimer,Democrat,House,NJ,NVDA,2023-2-26,True,False
+Josh Gottheimer,Democrat,House,NJ,NVDA,2023-2-22,True,False
+Josh Gottheimer,Democrat,House,NJ,PYPL,2023-2-2,True,False
+Josh Gottheimer,Democrat,House,NJ,PFGC,2023-2-7,False,True
+Josh Gottheimer,Democrat,House,NJ,PFGC,2023-2-22,False,True
+Josh Gottheimer,Democrat,House,NJ,TTD,2023-2-20,True,False
+Josh Gottheimer,Democrat,House,NJ,UBER,2023-2-20,True,False
+Josh Gottheimer,Democrat,House,NJ,UBER,2023-2-22,True,False
+Josh Gottheimer,Democrat,House,NJ,UBER,2023-2-13,True,False
+Josh Gottheimer,Democrat,House,NJ,UBER,2023-2-12,True,False
+Josh Gottheimer,Democrat,House,NJ,UBER,2023-2-6,True,False
+Josh Gottheimer,Democrat,House,NJ,UNH,2023-2-2,False,True
+Josh Gottheimer,Democrat,House,NJ,VRSK,2023-2-5,False,True
+Josh Gottheimer,Democrat,House,NJ,WDAY,2023-2-9,True,False
+French Hill,Republican,House,AR,N/A,2023-2-13,True,False
+Tom Cole,Republican,House,OK,WBA,2023-2-21,False,True
+Dan Sullivan,Republican,Senate,AK,SCHW,2023-2-9,False,True
+Dan Sullivan,Republican,Senate,AK,CHD,2023-2-20,True,False
+Dan Sullivan,Republican,Senate,AK,CHD,2023-2-9,True,False
+Dan Sullivan,Republican,Senate,AK,GOOGL,2023-2-9,True,False
+Greg Steube,Republican,House,FL,SNV,2023-2-5,True,False
+Greg Steube,Republican,House,FL,SNV,2023-2-16,True,False
+Ann Wagner,Republican,House,MO,N/A,2023-2-1,True,False
+Ann Wagner,Republican,House,MO,N/A,2023-2-2,True,False
+Ann Wagner,Republican,House,MO,N/A,2023-2-22,True,False
+Ann Wagner,Republican,House,MO,N/A,2023-2-22,True,False
+Kevin Hern,Republican,House,OK,ACN,2023-2-14,True,False
+Kevin Hern,Republican,House,OK,MMP,2023-2-13,True,False
+Kevin Hern,Republican,House,OK,OKE,2023-2-13,True,False
+Kevin Hern,Republican,House,OK,PXD,2023-1-31,False,True
+Kevin Hern,Republican,House,OK,TXN,2023-2-13,True,False
+Kevin Hern,Republican,House,OK,N/A,2023-2-21,True,False
+Debbie Dingell,Democrat,House,MI,SVC,2023-3-7,False,True
+French Hill,Republican,House,AR,N/A,2022-11-30,False,True
+Michael Burgess,Republican,House,TX,AAP,2023-2-23,True,False
+Michael Burgess,Republican,House,TX,AAP,2023-2-23,False,True
+Michael Burgess,Republican,House,TX,BX,2023-2-23,True,False
+Michael Burgess,Republican,House,TX,SYK,2023-2-23,True,False
+Michael Burgess,Republican,House,TX,CI,2023-2-23,True,False
+Tommy Tuberville,Republican,Senate,AL,N/A,2023-2-14,True,False
+Tommy Tuberville,Republican,Senate,AL,N/A,2023-2-6,True,False
+Lois Frankel,Democrat,House,FL,LNT,2023-1-30,True,False
+Lois Frankel,Democrat,House,FL,ADSK,2023-1-30,True,False
+Lois Frankel,Democrat,House,FL,BLK,2023-2-1,False,True
+Lois Frankel,Democrat,House,FL,BLK,2023-1-31,False,True
+Lois Frankel,Democrat,House,FL,FLR,2023-2-16,False,True
+Lois Frankel,Democrat,House,FL,HAS,2023-1-30,False,True
+Lois Frankel,Democrat,House,FL,IFF,2023-2-16,True,False
+Lois Frankel,Democrat,House,FL,JNJ,2023-2-7,True,False
+Lois Frankel,Democrat,House,FL,LAMR,2023-2-16,True,False
+Lois Frankel,Democrat,House,FL,LSXMA,2023-1-30,False,True
+Lois Frankel,Democrat,House,FL,PFE,2023-1-31,True,False
+Lois Frankel,Democrat,House,FL,PPG,2023-2-19,False,True
+Lois Frankel,Democrat,House,FL,SHW,2023-2-19,True,False
+Lois Frankel,Democrat,House,FL,TEL,2023-2-22,True,False
+John Curtis,Republican,House,UT,GOOGL,2023-2-22,False,True
+John Curtis,Republican,House,UT,AMZN,2023-2-22,False,True
+John Curtis,Republican,House,UT,AAPL,2023-2-22,False,True
+John Curtis,Republican,House,UT,BSX,2023-2-22,False,True
+John Curtis,Republican,House,UT,CVX,2023-2-22,False,True
+John Curtis,Republican,House,UT,COST,2023-2-22,False,True
+John Curtis,Republican,House,UT,JNJ,2023-2-22,False,True
+John Curtis,Republican,House,UT,JPM,2023-2-22,False,True
+John Curtis,Republican,House,UT,MA,2023-2-22,False,True
+John Curtis,Republican,House,UT,META,2023-2-22,False,True
+John Curtis,Republican,House,UT,MSFT,2023-2-22,False,True
+John Curtis,Republican,House,UT,NVDA,2023-2-22,False,True
+John Curtis,Republican,House,UT,PG,2023-2-22,False,True
+John Curtis,Republican,House,UT,RTX,2023-2-22,False,True
+John Curtis,Republican,House,UT,TMO,2023-2-22,False,True
+John Curtis,Republican,House,UT,UNH,2023-2-22,False,True
+Shelley Moore Capito,Republican,Senate,WV,WFC,2023-2-22,False,True
+Shelley Moore Capito,Republican,Senate,WV,CVX,2023-2-5,True,False
+Jared Moskowitz,Democrat,House,FL,BBY,2023-2-23,False,True
+Jared Moskowitz,Democrat,House,FL,BRO,2023-2-20,True,False
+Jared Moskowitz,Democrat,House,FL,CB,2023-2-20,True,False
+Jared Moskowitz,Democrat,House,FL,COST,2023-2-20,True,False
+Jared Moskowitz,Democrat,House,FL,DG,2023-2-20,True,False
+Jared Moskowitz,Democrat,House,FL,HRL,2023-2-20,True,False
+Jared Moskowitz,Democrat,House,FL,ITW,2023-2-20,True,False
+Jared Moskowitz,Democrat,House,FL,INTC,2023-2-12,False,True
+Jared Moskowitz,Democrat,House,FL,INTC,2023-2-12,False,True
+Jared Moskowitz,Democrat,House,FL,INTC,2023-2-12,False,True
+Jared Moskowitz,Democrat,House,FL,MRK,2023-2-23,True,False
+Jared Moskowitz,Democrat,House,FL,NEE,2023-2-23,True,False
+Jared Moskowitz,Democrat,House,FL,PEP,2023-2-23,True,False
+Jared Moskowitz,Democrat,House,FL,PFE,2023-2-23,False,True
+Jared Moskowitz,Democrat,House,FL,PNC,2023-2-20,True,False
+Jared Moskowitz,Democrat,House,FL,PNC,2023-2-20,True,False
+Jared Moskowitz,Democrat,House,FL,PEG,2023-2-23,True,False
+Jared Moskowitz,Democrat,House,FL,SPGI,2023-2-23,True,False
+Jared Moskowitz,Democrat,House,FL,SPGI,2023-2-20,True,False
+Mike Kelly,Republican,House,PA,N/A,2023-2-12,True,False
+Thomas Kean Jr,Republican,House,NJ,JNJ,2023-2-23,False,True
+Thomas Kean Jr,Republican,House,NJ,SYK,2023-2-23,False,True
+David Kustoff,Republican,House,TN,YOU,2023-3-1,True,False
+David Kustoff,Republican,House,TN,TJX,2023-3-1,True,False
+Ro Khanna,Democrat,House,CA,ADSK,2023-2-12,False,True
+Ro Khanna,Democrat,House,CA,ENPH,2023-2-15,False,True
+Ro Khanna,Democrat,House,CA,IT,2023-2-15,True,False
+Ro Khanna,Democrat,House,CA,ADBE,2023-2-26,False,True
+Ro Khanna,Democrat,House,CA,CAT,2023-2-2,True,False
+Ro Khanna,Democrat,House,CA,PG,2023-2-2,True,False
+Ro Khanna,Democrat,House,CA,BAC,2023-2-14,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-2-14,True,False
+Ro Khanna,Democrat,House,CA,MSFT,2023-2-2,True,False
+Ro Khanna,Democrat,House,CA,APTV,2023-2-2,True,False
+Ro Khanna,Democrat,House,CA,SYK,2023-2-14,True,False
+Ro Khanna,Democrat,House,CA,DE,2023-2-14,True,False
+Ro Khanna,Democrat,House,CA,KKR,2023-2-14,True,False
+Ro Khanna,Democrat,House,CA,ALL,2023-2-8,True,False
+Ro Khanna,Democrat,House,CA,AIG,2023-2-14,True,False
+Ro Khanna,Democrat,House,CA,TXN,2023-2-14,True,False
+Ro Khanna,Democrat,House,CA,ALL,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,ALL,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,ALL,2023-2-8,True,False
+Ro Khanna,Democrat,House,CA,LEA,2023-2-15,True,False
+Ro Khanna,Democrat,House,CA,LEA,2023-2-22,True,False
+Ro Khanna,Democrat,House,CA,ALL,2023-2-15,True,False
+Ro Khanna,Democrat,House,CA,JPM,2023-2-2,True,False
+Ro Khanna,Democrat,House,CA,ALL,2023-2-12,True,False
+Ro Khanna,Democrat,House,CA,NVDA,2023-2-2,True,False
+Ro Khanna,Democrat,House,CA,DE,2023-2-2,False,True
+Ro Khanna,Democrat,House,CA,GOOGL,2023-2-7,False,True
+Ro Khanna,Democrat,House,CA,PH,2023-2-7,False,True
+Ro Khanna,Democrat,House,CA,BKNG,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,KKR,2023-2-7,False,True
+Ro Khanna,Democrat,House,CA,TXN,2023-2-7,False,True
+Ro Khanna,Democrat,House,CA,BAC,2023-2-7,False,True
+Ro Khanna,Democrat,House,CA,BKNG,2023-2-14,False,True
+Ro Khanna,Democrat,House,CA,LIN,2023-2-14,False,True
+Ro Khanna,Democrat,House,CA,BRK/B,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,BRK/B,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,LIN,2023-2-14,False,True
+Ro Khanna,Democrat,House,CA,LIN,2023-2-14,False,True
+Ro Khanna,Democrat,House,CA,LIN,2023-2-15,False,True
+Ro Khanna,Democrat,House,CA,LLY,2023-2-2,False,True
+Ro Khanna,Democrat,House,CA,MSFT,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,LIN,2023-2-14,False,True
+Ro Khanna,Democrat,House,CA,MMC,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,DHR,2023-2-2,False,True
+Ro Khanna,Democrat,House,CA,GE,2023-2-2,False,True
+Ro Khanna,Democrat,House,CA,GLW,2023-2-5,True,False
+Ro Khanna,Democrat,House,CA,DD,2023-2-8,False,True
+Ro Khanna,Democrat,House,CA,GOOGL,2023-2-7,False,True
+Ro Khanna,Democrat,House,CA,MHK,2023-2-1,False,True
+Ro Khanna,Democrat,House,CA,TSLA,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,CVS,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,BMY,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,UEEC,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-1-31,True,False
+Ro Khanna,Democrat,House,CA,MKC,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,ELAN,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,MDLZ,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,TSN,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-2-14,True,False
+Ro Khanna,Democrat,House,CA,ATVI,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,PFE,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,META,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,CTLT,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,BAX,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,VZ,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,HRL,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,KDP,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,LNC,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,DVA,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,RHI,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,WBA,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,IFF,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,JNJ,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,KO,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,MRK,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,MCD,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,AMZN,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,GOOGL,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,MCK,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,ECL,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,ELV,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,BRK/B,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,CCI,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,LH,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,TPX,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,SYY,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,SHOP,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,AMGN,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,SHW,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,EA,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,AAPL,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,EWA,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,CVS,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,EWJ,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,LLY,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,LIN,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,ING,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,UBS,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,BNPQY,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,RIO,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,NSRGY,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,SBGSY,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,NVO,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,SNY,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,SIEGY,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,AZN,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,STM,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,SMFG,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,HSBC,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,BP,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,AMZN,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,IBDRY,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,SHEL,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,UL,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,TSM,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,TAK,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,CL,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,ABB,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,NVS,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,AVTR,2023-2-5,True,False
+Ro Khanna,Democrat,House,CA,NGG,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,VZ,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,KDP,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,CRH,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,STZ,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,CCEP,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,ENLAY,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,REGN,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,CMPGY,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,CI,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,ADRNY,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,BAC,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,COST,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,GM,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,BF/A,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,COR,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,AVTR,2023-2-7,True,False
+Ro Khanna,Democrat,House,CA,GLW,2023-2-5,True,False
+Ro Khanna,Democrat,House,CA,KMB,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,MDT,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,GOOGL,2023-2-7,True,False
+Ro Khanna,Democrat,House,CA,ELAN,2023-2-21,True,False
+Ro Khanna,Democrat,House,CA,GOOGL,2023-2-8,True,False
+Ro Khanna,Democrat,House,CA,DIS,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,ELAN,2023-2-20,True,False
+Ro Khanna,Democrat,House,CA,AVTR,2023-2-6,True,False
+Ro Khanna,Democrat,House,CA,VOD,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,ADM,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,BAX,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,BDX,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,MKC,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,ELAN,2023-2-23,True,False
+Ro Khanna,Democrat,House,CA,MOH,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,TSN,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,MRK,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,ABBV,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,CMG,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,BXP,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,UNP,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,VRTX,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-2-1,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-2-14,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-2-14,True,False
+Ro Khanna,Democrat,House,CA,TTWO,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,CHD,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,VNO,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,KR,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,HRL,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,VTRS,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,WBA,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,WELL,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,TAP,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,AMED,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,WM,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,CME,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,YUM,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,CLX,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,LYB,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,META,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,GWW,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,DHR,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,BIIB,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,XSP,2023-2-14,False,True
+Ro Khanna,Democrat,House,CA,XSP,2023-2-21,False,True
+Ro Khanna,Democrat,House,CA,XSP,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,XSP,2023-2-26,False,True
+Ro Khanna,Democrat,House,CA,JNJ,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,TSLA,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,UNH,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,PG,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,KO,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,PEP,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,IBM,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,AMGN,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,DD,2023-2-8,False,True
+Ro Khanna,Democrat,House,CA,MCK,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,HBI,2023-2-2,False,True
+Ro Khanna,Democrat,House,CA,ECL,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,HBI,2023-2-7,False,True
+Ro Khanna,Democrat,House,CA,CNC,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,PM,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,MCD,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,MO,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,HBI,2023-2-14,False,True
+Ro Khanna,Democrat,House,CA,HBI,2023-2-15,False,True
+Ro Khanna,Democrat,House,CA,ROP,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,MHK,2023-2-1,False,True
+Ro Khanna,Democrat,House,CA,IFF,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,HBI,2023-2-13,False,True
+Ro Khanna,Democrat,House,CA,GIS,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,LSXMA,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,HUM,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,CAH,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,HBI,2023-2-1,False,True
+Ro Khanna,Democrat,House,CA,HBI,2023-2-5,False,True
+Ro Khanna,Democrat,House,CA,ADP,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,SIRI,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,INTC,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,ENPH,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,EA,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,T,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,ELV,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,SYY,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,PAYX,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,SBAC,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,VMW,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,KLAC,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,TECH,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,NEM,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,PPG,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,SHW,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,EMN,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,DE,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,NBIX,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,WRK,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,ILMN,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,LSXMA,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,MRNA,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,KIM,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,MOS,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,CSL,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,ALNY,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,N/A,2023-2-15,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-2-12,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-2-6,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-2-6,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-2-15,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-1-31,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-2-27,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-2-7,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-2-7,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-2-27,True,False
+Ro Khanna,Democrat,House,CA,BAC,2023-2-14,True,False
+Ro Khanna,Democrat,House,CA,N/A,2023-2-14,True,False
+Ro Khanna,Democrat,House,CA,DE,2023-2-14,True,False
+Ro Khanna,Democrat,House,CA,ALL,2023-2-8,True,False
+Ro Khanna,Democrat,House,CA,AIG,2023-2-14,True,False
+Ro Khanna,Democrat,House,CA,KKR,2023-2-14,True,False
+Ro Khanna,Democrat,House,CA,SYK,2023-2-14,True,False
+Ro Khanna,Democrat,House,CA,ALL,2023-2-13,True,False
+Ro Khanna,Democrat,House,CA,ALL,2023-2-8,True,False
+Ro Khanna,Democrat,House,CA,ALL,2023-2-9,True,False
+Ro Khanna,Democrat,House,CA,LEA,2023-2-15,True,False
+Ro Khanna,Democrat,House,CA,LEA,2023-2-22,True,False
+Ro Khanna,Democrat,House,CA,ALL,2023-2-15,True,False
+Ro Khanna,Democrat,House,CA,GOOGL,2023-2-7,False,True
+Ro Khanna,Democrat,House,CA,PH,2023-2-7,False,True
+Ro Khanna,Democrat,House,CA,KKR,2023-2-7,False,True
+Ro Khanna,Democrat,House,CA,TXN,2023-2-7,False,True
+Ro Khanna,Democrat,House,CA,BAC,2023-2-7,False,True
+Ro Khanna,Democrat,House,CA,BKNG,2023-2-14,False,True
+Ro Khanna,Democrat,House,CA,BKNG,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,LIN,2023-2-14,False,True
+Ro Khanna,Democrat,House,CA,BRK/B,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,LIN,2023-2-14,False,True
+Ro Khanna,Democrat,House,CA,LIN,2023-2-14,False,True
+Ro Khanna,Democrat,House,CA,LIN,2023-2-14,False,True
+Ro Khanna,Democrat,House,CA,LIN,2023-2-15,False,True
+Ro Khanna,Democrat,House,CA,BRK/B,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,MMC,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,MSFT,2023-2-9,False,True
+Ro Khanna,Democrat,House,CA,UNP,2023-2-15,True,False
+Ro Khanna,Democrat,House,CA,RTX,2023-2-15,False,True
+Ro Khanna,Democrat,House,CA,ETN,2023-2-15,False,True
+Ro Khanna,Democrat,House,CA,UNP,2023-2-15,True,False
+Ro Khanna,Democrat,House,CA,RTX,2023-2-15,False,True
+Ro Khanna,Democrat,House,CA,ETN,2023-2-15,False,True
+Ro Khanna,Democrat,House,CA,UNP,2023-2-15,True,False
+Ro Khanna,Democrat,House,CA,RTX,2023-2-15,False,True
+Ro Khanna,Democrat,House,CA,ETN,2023-2-15,False,True
+Dwight Evans,Democrat,House,PA,CSX,2023-2-27,False,True
+Dwight Evans,Democrat,House,PA,CRM,2023-2-27,False,True
+Tom Cole,Republican,House,OK,WBA,2023-2-21,False,True
+Earl Blumenauer,Democrat,House,OR,NWN,2023-2-14,True,False
+Debbie Dingell,Democrat,House,MI,ARCC,2023-3-2,True,False
+Scott Franklin,Republican,House,FL,AAPL,2023-2-14,False,True
+Scott Franklin,Republican,House,FL,BRK/B,2023-2-20,False,True
+Scott Franklin,Republican,House,FL,BRK/B,2023-2-14,False,True
+Scott Franklin,Republican,House,FL,CSCO,2023-2-14,False,True
+Scott Franklin,Republican,House,FL,CMCSA,2023-2-14,False,True
+Scott Franklin,Republican,House,FL,QQQ,2023-2-14,False,True
+Scott Franklin,Republican,House,FL,QQQ,2023-2-20,False,True
+Scott Franklin,Republican,House,FL,IJR,2023-2-14,False,True
+Scott Franklin,Republican,House,FL,JPM,2023-2-14,False,True
+Scott Franklin,Republican,House,FL,MDT,2023-2-14,False,True
+Scott Franklin,Republican,House,FL,MSFT,2023-2-14,False,True
+Scott Franklin,Republican,House,FL,MSFT,2023-2-20,False,True
+Scott Franklin,Republican,House,FL,NEE,2023-2-14,False,True
+Scott Franklin,Republican,House,FL,PFE,2023-2-14,False,True
+Scott Franklin,Republican,House,FL,PNC,2023-2-14,False,True
+Scott Franklin,Republican,House,FL,SBUX,2023-2-14,False,True
+Scott Franklin,Republican,House,FL,UPS,2023-2-14,False,True
+Scott Franklin,Republican,House,FL,UNH,2023-2-14,False,True
+Scott Franklin,Republican,House,FL,VZ,2023-2-14,False,True
+Scott Franklin,Republican,House,FL,WMT,2023-2-20,False,True
+Suzan DelBene,Democrat,House,WA,N/A,2023-2-15,True,False
+Suzan DelBene,Democrat,House,WA,N/A,2023-2-23,True,False
+John Boozman,Republican,Senate,AR,DBLEX,2023-2-5,False,True
+John Boozman,Republican,Senate,AR,GIGB,2023-2-21,False,True
+John Boozman,Republican,Senate,AR,CMBS,2023-2-21,False,True
+John Boozman,Republican,Senate,AR,JMBS,2023-2-5,False,True
+John Boozman,Republican,Senate,AR,JMBS,2023-2-21,False,True
+John Boozman,Republican,Senate,AR,TLT,2023-2-5,True,False
+John Boozman,Republican,Senate,AR,IEI,2023-2-21,True,False
+John Boozman,Republican,Senate,AR,TLH,2023-2-5,True,False
+Lloyd Doggett,Democrat,House,TX,PG,2023-2-15,True,False
+Earl Blumenauer,Democrat,House,OR,PYPL,2023-2-6,True,False
+Katherine Clark,Democrat,House,MA,N/A,2023-2-22,True,False
+Abigail Spanberger,Democrat,House,VA,LHX,2023-3-1,False,True
+Rob Wittman,Republican,House,VA,NORW,2023-2-2,False,True
+Rob Wittman,Republican,House,VA,EUFN,2023-2-2,True,False
+Rob Wittman,Republican,House,VA,IHE,2023-2-2,True,False
+Rob Wittman,Republican,House,VA,IYW,2023-2-2,False,True
+Rob Wittman,Republican,House,VA,MSFT,2023-2-2,False,True
+Rob Wittman,Republican,House,VA,SJNK,2023-2-2,False,True
+Rob Wittman,Republican,House,VA,MOTI,2023-2-2,True,False
+Jim Himes,Democrat,House,CT,N/A,2023-2-21,True,False
+Mikie Sherrill,Democrat,House,NJ,UBS,2023-3-2,False,True
+Virginia Foxx,Republican,House,NC,ARLP,2023-2-14,True,False
+Virginia Foxx,Republican,House,NC,T,2023-1-31,True,False
+Virginia Foxx,Republican,House,NC,BCC,2023-2-23,True,False
+Virginia Foxx,Republican,House,NC,CF,2023-2-15,False,True
+Virginia Foxx,Republican,House,NC,FLNG,2023-2-14,True,False
+Virginia Foxx,Republican,House,NC,MRO,2023-2-20,False,True
+Virginia Foxx,Republican,House,NC,SIRE,2023-2-23,True,False
+Virginia Foxx,Republican,House,NC,TAK,2023-2-15,True,False
+Michael Burgess,Republican,House,TX,AAP,2023-2-23,True,False
+Michael Burgess,Republican,House,TX,AAP,2023-2-23,False,True
+Michael Burgess,Republican,House,TX,BX,2023-2-23,False,True
+Michael Burgess,Republican,House,TX,BX,2023-2-23,True,False
+Michael Burgess,Republican,House,TX,MSFT,2023-2-23,True,False
+Ann Wagner,Republican,House,MO,N/A,2022-12-4,True,False
+Blaine Luetkemeyer,Republican,House,MO,N/A,2022-11-22,True,False
+Blaine Luetkemeyer,Republican,House,MO,N/A,2022-12-21,True,False
+Blaine Luetkemeyer,Republican,House,MO,N/A,2022-12-11,True,False
+Mike Kelly,Republican,House,PA,N/A,2022-11-30,False,True
+Eric Burlison,Republican,House,MO,F,2023-2-5,False,True
+Eric Burlison,Republican,House,MO,EAF,2023-2-5,False,True
+Eric Burlison,Republican,House,MO,AMZN,2023-2-5,False,True
+Eric Burlison,Republican,House,MO,CCL,2023-2-5,False,True
+Eric Burlison,Republican,House,MO,ASO,2023-2-5,False,True
+Diana Harshbarger,Republican,House,TN,KDP,2023-1-19,False,True
+Diana Harshbarger,Republican,House,TN,ADBE,2023-1-24,True,False
+Diana Harshbarger,Republican,House,TN,ADBE,2023-1-24,True,False
+Diana Harshbarger,Republican,House,TN,COR,2023-1-24,True,False
+Diana Harshbarger,Republican,House,TN,COR,2023-1-24,True,False
+Diana Harshbarger,Republican,House,TN,COR,2023-1-24,True,False
+Diana Harshbarger,Republican,House,TN,COR,2023-1-24,True,False
+Diana Harshbarger,Republican,House,TN,BMY,2023-1-24,True,False
+Diana Harshbarger,Republican,House,TN,BMY,2023-1-24,True,False
+Diana Harshbarger,Republican,House,TN,BMY,2023-1-24,True,False
+Diana Harshbarger,Republican,House,TN,BMY,2023-1-24,True,False
+Diana Harshbarger,Republican,House,TN,EW,2023-1-24,True,False
+Diana Harshbarger,Republican,House,TN,EW,2023-1-24,True,False
+Diana Harshbarger,Republican,House,TN,META,2023-1-24,True,False
+Diana Harshbarger,Republican,House,TN,META,2023-1-24,True,False
+Diana Harshbarger,Republican,House,TN,META,2023-1-24,True,False
+Diana Harshbarger,Republican,House,TN,META,2023-1-24,True,False
+Diana Harshbarger,Republican,House,TN,CDW,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,CDW,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,CMCSA,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,CMCSA,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,CMCSA,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,CVS,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,CVS,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,CVS,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,CVS,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,LMT,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,LMT,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,NEE,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,PAYX,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,PAYX,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,PG,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,RHHBY,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,RHHBY,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,RHHBY,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,RHHBY,2023-1-24,False,True
+Diana Harshbarger,Republican,House,TN,N/A,2023-1-25,False,True
+Diana Harshbarger,Republican,House,TN,AVGO,2023-1-26,False,True
+Diana Harshbarger,Republican,House,TN,N/A,2023-1-29,True,False
+Diana Harshbarger,Republican,House,TN,N/A,2023-1-29,True,False
+Diana Harshbarger,Republican,House,TN,TMUS,2023-1-30,False,True
+Diana Harshbarger,Republican,House,TN,TMUS,2023-1-30,False,True
+Diana Harshbarger,Republican,House,TN,TMUS,2023-1-30,False,True
+Diana Harshbarger,Republican,House,TN,V,2023-1-31,True,False
+Diana Harshbarger,Republican,House,TN,V,2023-1-31,True,False
+Diana Harshbarger,Republican,House,TN,GS,2023-1-31,False,True
+Diana Harshbarger,Republican,House,TN,GT,2023-2-7,False,True
+Diana Harshbarger,Republican,House,TN,GT,2023-2-7,False,True
+Diana Harshbarger,Republican,House,TN,HLI,2023-2-8,False,True
+Diana Harshbarger,Republican,House,TN,HLI,2023-2-8,False,True
+Diana Harshbarger,Republican,House,TN,ORCL,2023-2-8,False,True
+Diana Harshbarger,Republican,House,TN,PAYX,2023-2-8,False,True
+Diana Harshbarger,Republican,House,TN,PAYX,2023-2-8,False,True
+Diana Harshbarger,Republican,House,TN,PAYX,2023-2-8,False,True
+Diana Harshbarger,Republican,House,TN,PAYX,2023-2-8,False,True
+Diana Harshbarger,Republican,House,TN,ADBE,2023-2-9,True,False
+Diana Harshbarger,Republican,House,TN,ADBE,2023-2-9,True,False
+Diana Harshbarger,Republican,House,TN,BKR,2023-2-9,True,False
+Diana Harshbarger,Republican,House,TN,BKR,2023-2-9,True,False
+Diana Harshbarger,Republican,House,TN,BKR,2023-2-9,True,False
+Diana Harshbarger,Republican,House,TN,H,2023-2-9,True,False
+Diana Harshbarger,Republican,House,TN,H,2023-2-9,True,False
+Diana Harshbarger,Republican,House,TN,H,2023-2-9,True,False
+Diana Harshbarger,Republican,House,TN,NOW,2023-2-9,True,False
+Diana Harshbarger,Republican,House,TN,NOW,2023-2-9,True,False
+Diana Harshbarger,Republican,House,TN,NOW,2023-2-9,True,False
+Diana Harshbarger,Republican,House,TN,ADBE,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,ACM,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,GOOGL,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,AMZN,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,AON,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,AAPL,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,AZO,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,BAH,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,KO,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,CMCSA,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,ELV,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,FIS,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,JNJ,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,JPM,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,LIN,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,MDT,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,META,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,MSFT,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,MSFT,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,ORCL,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,PYPL,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,PEP,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,QCOM,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,RTX,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,RSG,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,SCI,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,SUI,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,VRSN,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,WMT,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,WFC,2023-2-9,False,True
+Diana Harshbarger,Republican,House,TN,N/A,2023-2-12,True,False
+Diana Harshbarger,Republican,House,TN,PCAR,2023-2-13,True,False
+Diana Harshbarger,Republican,House,TN,PCAR,2023-2-13,True,False
+Diana Harshbarger,Republican,House,TN,PCAR,2023-2-13,True,False
+Diana Harshbarger,Republican,House,TN,PCAR,2023-2-13,True,False
+Diana Harshbarger,Republican,House,TN,GOOGL,2023-2-13,False,True
+Diana Harshbarger,Republican,House,TN,EA,2023-2-13,False,True
+Diana Harshbarger,Republican,House,TN,MRK,2023-2-13,False,True
+Diana Harshbarger,Republican,House,TN,KO,2023-2-14,False,True
+Diana Harshbarger,Republican,House,TN,H,2023-2-15,True,False
+Diana Harshbarger,Republican,House,TN,H,2023-2-15,True,False
+Diana Harshbarger,Republican,House,TN,H,2023-2-15,True,False
+Diana Harshbarger,Republican,House,TN,N/A,2023-2-15,False,True
+Don Beyer,Democrat,House,VA,N/A,2023-1-31,False,True
+Tom Carper,Democrat,Senate,DE,N/A,2023-2-27,True,False
+Tom Carper,Democrat,Senate,DE,QCOM,2023-2-20,False,True
+Tom Carper,Democrat,Senate,DE,SBUX,2023-2-20,False,True
+Tom Carper,Democrat,Senate,DE,VFH,2023-2-20,False,True
+Tom Carper,Democrat,Senate,DE,SQM,2023-2-20,True,False
+Tom Carper,Democrat,Senate,DE,WM,2023-2-20,True,False
+Tom Carper,Democrat,Senate,DE,TSM,2023-2-20,False,True
+Tom Carper,Democrat,Senate,DE,AGX,2023-2-20,True,False
+Tom Carper,Democrat,Senate,DE,KBE,2023-2-20,False,True
+Tom Carper,Democrat,Senate,DE,HASI,2023-2-20,True,False
+Tom Carper,Democrat,Senate,DE,MOS,2023-2-20,True,False
+Tom Carper,Democrat,Senate,DE,FPI,2023-2-20,True,False
+Tom Carper,Democrat,Senate,DE,RTH,2023-2-20,False,True
+Tom Carper,Democrat,Senate,DE,BSM,2023-2-20,True,False
+Tom Carper,Democrat,Senate,DE,RTX,2023-2-20,True,False
+Tom Carper,Democrat,Senate,DE,IRM,2023-2-20,False,True
+Tom Carper,Democrat,Senate,DE,APO,2023-2-20,False,True
+Tom Carper,Democrat,Senate,DE,ABYAX,2023-2-14,False,True
+Tom Carper,Democrat,Senate,DE,MBXIX,2023-2-14,False,True
+Tom Carper,Democrat,Senate,DE,LUBFX,2023-2-14,False,True
+Tom Carper,Democrat,Senate,DE,N/A,2023-2-14,True,False
+Tom Carper,Democrat,Senate,DE,N/A,2023-2-14,True,False
+Tom Carper,Democrat,Senate,DE,JHMM,2023-2-14,False,True
+Tom Carper,Democrat,Senate,DE,VHT,2023-2-14,True,False
+Tom Carper,Democrat,Senate,DE,SBIO,2023-2-14,False,True
+Tom Carper,Democrat,Senate,DE,IVV,2023-2-14,True,False
+Tom Carper,Democrat,Senate,DE,IJR,2023-2-14,True,False
+Tom Carper,Democrat,Senate,DE,IWD,2023-2-14,True,False
+Tom Carper,Democrat,Senate,DE,CDL,2023-2-14,False,True
+Tom Carper,Democrat,Senate,DE,SPGP,2023-2-14,False,True
+Tom Carper,Democrat,Senate,DE,GNR,2023-2-14,False,True
+Tom Carper,Democrat,Senate,DE,LDP,2023-2-14,False,True
+Tom Carper,Democrat,Senate,DE,QTEC,2023-2-14,True,False
+Tom Carper,Democrat,Senate,DE,FDN,2023-2-14,False,True
+Tom Carper,Democrat,Senate,DE,RTH,2023-2-14,False,True
+Tom Carper,Democrat,Senate,DE,MOO,2023-2-14,False,True
+Tom Carper,Democrat,Senate,DE,IGHG,2023-2-14,True,False
+Tom Carper,Democrat,Senate,DE,GBIL,2023-2-14,True,False
+Tom Carper,Democrat,Senate,DE,FDRR,2023-2-14,False,True
+Tom Carper,Democrat,Senate,DE,FQAL,2023-2-14,False,True
+Tom Carper,Democrat,Senate,DE,NXTG,2023-2-14,False,True
+Bill Keating,Democrat,House,MA,GOOGL,2023-2-12,True,False
+Bill Keating,Democrat,House,MA,JPM,2023-2-12,True,False
+Bill Keating,Democrat,House,MA,LRCX,2023-2-12,True,False
+Bill Keating,Democrat,House,MA,NXPI,2023-2-12,True,False
+Bill Keating,Democrat,House,MA,PNC,2023-2-12,True,False
+Bill Keating,Democrat,House,MA,VEEV,2023-2-12,True,False
+Mike Kelly,Republican,House,PA,DPLS,2023-1-22,False,True
+Mike Kelly,Republican,House,PA,N/A,2023-1-30,False,True
+Mike Kelly,Republican,House,PA,N/A,2023-1-30,False,True
+Mike Kelly,Republican,House,PA,N/A,2023-1-30,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-1-10,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-1-8,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-1-30,True,False
+Michael McCaul,Republican,House,TX,ADSK,2023-1-16,True,False
+Michael McCaul,Republican,House,TX,SEDG,2023-1-4,True,False
+Michael McCaul,Republican,House,TX,FBIN,2023-1-12,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-1-3,True,False
+Michael McCaul,Republican,House,TX,VMFXX,2023-1-22,True,False
+Michael McCaul,Republican,House,TX,VMFXX,2023-1-22,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-1-2,False,True
+Michael McCaul,Republican,House,TX,KW,2023-1-9,False,True
+Michael McCaul,Republican,House,TX,AZEK,2023-1-12,False,True
+Michael McCaul,Republican,House,TX,SEDG,2023-1-4,True,False
+Michael McCaul,Republican,House,TX,FBIN,2023-1-12,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-1-3,True,False
+Michael McCaul,Republican,House,TX,VMFXX,2023-1-22,True,False
+Michael McCaul,Republican,House,TX,VMFXX,2023-1-22,True,False
+Michael McCaul,Republican,House,TX,N/A,2023-1-2,False,True
+Michael McCaul,Republican,House,TX,KW,2023-1-9,False,True
+Michael McCaul,Republican,House,TX,AZEK,2023-1-12,False,True
+Michael McCaul,Republican,House,TX,KBR,2023-1-9,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-1-2,False,True
+Michael McCaul,Republican,House,TX,FIVE,2023-1-9,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-1-2,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-1-2,False,True
+Michael McCaul,Republican,House,TX,KDP,2023-1-22,False,True
+Michael McCaul,Republican,House,TX,AON,2023-1-9,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-1-2,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-1-2,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-1-2,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-1-2,False,True
+Michael McCaul,Republican,House,TX,MSFT,2023-1-23,False,True
+Michael McCaul,Republican,House,TX,MS,2023-1-5,False,True
+Michael McCaul,Republican,House,TX,GEHC,2023-1-19,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-1-2,False,True
+Michael McCaul,Republican,House,TX,N/A,2023-1-26,False,True
